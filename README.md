@@ -15,10 +15,11 @@ In the Excel part of the project, I performed the following tasks:
 
 In the Tableau part of the project, I imported the cleaned dataset and created a dashboard consisting of four visualizations:
 
-1. GDP vs. Smartphone Users: A scatter plot showing the relationship between GDP per capita and the number of smartphone users.
-2. Life Expectancy at Birth: A bar chart displaying the average life expectancy at birth for different countries.
-3. Number of Smartphone Users: A line chart illustrating the trend in the number of smartphone users over time.
-4. [Add Description of the Fourth Visualization]
+1. Top 20 Countries by Highest GDP: Column chart
+2. Top 20 Countries by Smartphone User: Table chart
+3. Top 20 Countries by Life Expectancy: Symbol maps
+4. GDP and Life Expectancy by Top 20 Countries with Highest Smartphone Users: Tree maps
+5. Comparing GDP and Smartphone users by Top 20 Countreis with Highest Life Expectancy: Bar Chart
 
 ## Files and Folders
 
