@@ -23,17 +23,17 @@ In the Tableau part of the project, I imported the cleaned dataset and created a
 
 ## Files and Folders
 
-- `data/`: Contains the raw and cleaned datasets.
-- "The Wealth of nations amended.xlsx" - Includes the Excel file with data cleaning, filtering, sorting, and visualization.
-- `tableau_dashboard/`: Contains the Tableau workbook with the dashboard and visualizations.
+- `The Wealth of nations.xlsx`: Contains the rawdatasets.
+- `The Wealth of nations amended.xlsx` - Includes the Excel file with data cleaning, filtering, sorting, and visualization.
+- `The Wealth of Nations.twbx`: Contains the Tableau workbook with the dashboard and visualizations.
 
 ## Usage
 
 To replicate the analysis or explore the visualizations further:
 
 1. Download or clone this repository.
-2. Open the Excel file folder to view the data analysis in Excel.
-3. Open the Tableau workbook in the `table
+2. Open the Excel files to view the data analysis in Excel.
+3. Open the Tableau workbook in Tableau Public.
 
 ## Tableau
 ![The Wealth of Nations](https://github.com/Dhilan100/Excel-and-Tableau-project-using-Wealth-of-Nations-data-set/assets/168829846/2246b646-141b-4918-8e0b-417e4ea420ef)
